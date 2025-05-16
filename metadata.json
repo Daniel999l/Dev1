@@ -1,15 +1,6 @@
 {
-  "name": "Buddi",
-  "symbol": "BUDI",
-  "description": "You are my Buddi, until the end",
-  "image": "https://i.ibb.co/3mC7jBnf/hmru93uwwh5a1.jpg",
-  "external_url": "https://www.youtube.com/watch?v=ahq0sHf-MnA",
-  "properties": {
-    "files": [
-      {
-        "uri": "https://i.ibb.co/WNZ38HvL/bsgrae3j3vr81.jpg",
-        "type": "image/jpeg"
-      }
-    ]
-  }
+  "name": "Mars",
+  "symbol": "MARS",
+  "description": "Colonize Mars",
+  "image": "https://i.ibb.co/rRpWN66s/images.jpg",
 }
